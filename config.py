@@ -19,14 +19,14 @@ push plus 微信推送,具体使用参考  https://www.pushplus.plus
 为了安全,这里使用的环境配置.git里面请自行百度如何添加secrets.pycharm也可以自主添加.如果你实在不会,就直接用明文吧（O.o）
 '''
 # PUSH_TOKEN = os.environ.get("PUSHPLUS_KEY")
-PUSH_TOKEN = 'aab34782951d41a9a53f70bf0fe165a6'
+PUSH_TOKEN = '378c564e538e46ed9dafa5c70b62a3d6'
 
 '''
 *********** 地图配置 ***********
 获取地点信息,这里用的高德api,需要自己去高德开发者平台申请自己的key
 '''
 # AMAP_KEY = os.environ.get("GAODE_KEY")
-AMAP_KEY = '7251f24064d7f6ef359c279f415c2f3f'
+AMAP_KEY = 'acc2961b83a4c7430636014522b2996b'
 
 
 '''
